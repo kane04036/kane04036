@@ -1,3 +1,8 @@
+### who am I
+- Student of Kangnam Univ. Department of Software(2020.03~) 
+- I'm current learning swift, xCode
+- I'm interested in iOS dev, UX design
+
 ### Project List
 |Project|Description|Tech Stack|Year|Remarks|
 |--------|----------|-------|---|------|
