@@ -1,7 +1,9 @@
 # I'm Kane
 
-### who am I
+### Who am I
 - Student of Kangnam Univ. Department of Software(2020.03~) 
+---
+### What I am insterested in
 - swift, xCode
 - iOS development
 - android development
