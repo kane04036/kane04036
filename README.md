@@ -1,5 +1,5 @@
-# I am Hyein Kim a.k.a. Kane
----
+# Hyein Kim a.k.a. Kane
+
 ### who am I
 - Student of Kangnam Univ. Department of Software(2020.03~) 
 - I'm current learning swift, xCode
