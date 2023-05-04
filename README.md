@@ -4,7 +4,7 @@
 - Student in Kangnam Univ. Department of Software(2020.03~) 
 ---
 ### What I am insterested in
-- Swift, XCode
+- Swift
 - iOS Development
 - Android Development
 - UX design
