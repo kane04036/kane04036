@@ -4,7 +4,7 @@
 - Swift
 - iOS Development
 - UX design
-<br/>[**MY PORTFOLIO**](https://torpid-hosta-ed8.notion.site/bc5f52d2086b4cefbeefccf77fa82db9?pvs=4)
+
 ---
 ### Project List
 |Project|Description|Tech Stack|Year|Remarks|
@@ -18,4 +18,6 @@
 |App Name|url|
 |--------|----------|
 |토도리(Todori)|https://apps.apple.com/kr/app/%ED%86%A0%EB%8F%84%EB%A6%AC-todori/id6450745812|
+---
+[**MY PORTFOLIO**](https://torpid-hosta-ed8.notion.site/bc5f52d2086b4cefbeefccf77fa82db9?pvs=4)
 
