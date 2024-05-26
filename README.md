@@ -6,4 +6,4 @@
 - UX design
 
 ---
-[**MY PORTFOLIO**](https://torpid-hosta-ed8.notion.site/bc5f52d2086b4cefbeefccf77fa82db9?pvs=4)
+[**MY PORTFOLIO**](https://hyennaeon.notion.site/bc5f52d2086b4cefbeefccf77fa82db9)
