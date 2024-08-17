@@ -1,4 +1,4 @@
-# I'm Kane 
+# Hello, I'm Kane 
 
 ### What I am insterested in
 - Swift
