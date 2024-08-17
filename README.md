@@ -2,5 +2,6 @@
 
 ### What I am insterested in
 - Swift
-- iOS Development
-- UX design
+- iOS
+- macOS
+- UXUI design
